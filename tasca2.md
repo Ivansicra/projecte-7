@@ -188,26 +188,26 @@ Els nous components hauran de complir:
 
 #### Estalvia energia
 
-- ✔ Apaga el PC quan acabis
-- ✔ Activa el mode suspensió
-- ✔ Redueix la brillantor de la pantalla
-- ✔ Desconnecta carregadors
+-  Apaga el PC quan acabis
+-  Activa el mode suspensió
+-  Redueix la brillantor de la pantalla
+-  Desconnecta carregadors
 
 
 #### Redueix residus digitals
 
-- ✔ Elimina arxius duplicats
-- ✔ Utilitza carpetes compartides
-- ✔ Evita guardar dades innecessàries
-- ✔ Fes neteja mensual
+-  Elimina arxius duplicats
+-  Utilitza carpetes compartides
+-  Evita guardar dades innecessàries
+-  Fes neteja mensual
 
 
 #### Cuida el hardware
 
-- ✔ No bloquegis ventiladors
-- ✔ Mantingues l’equip net
-- ✔ Informa d’avaries ràpidament
-- ✔ Reutilitza abans de substituir
+-  No bloquegis ventiladors
+-  Mantingues l’equip net
+-  Informa d’avaries ràpidament
+-  Reutilitza abans de substituir
 
 
 
