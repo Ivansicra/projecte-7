@@ -1,292 +1,309 @@
-# Pla de Sostenibilitat Integral Coworking Mataró
+# Pla de Sostenibilitat Integral – Coworking Mataró
 
-## Índex
+## Introducció
 
-1. Introducció  
-2. Objectius del projecte  
-3. Anàlisi de la situació actual  
-4. Fase 1 – Diagnòstic i Auditoria  
-5. Fase 2 – Solucions: Hardware Circular  
-6. Fase 3 – Guia de Bones Pràctiques Digitals  
-7. Fase 4 – Pla de Sostenibilitat Integral  
-8. KPIs i mètriques de sostenibilitat  
-9. Relació amb els ODS  
-10. Conclusions  
+Aquest document presenta un Pla de Sostenibilitat Integral per a l’empresa fictícia “Coworking Mataró”, elaborat a partir de l’anàlisi de la seva infraestructura informàtica actual i basat en els principis d’Economia Circular, eficiència energètica i responsabilitat ambiental.
 
+L’objectiu principal és transformar la infraestructura tecnològica del coworking en un model més eficient, sostenible i alineat amb els Objectius de Desenvolupament Sostenible (ODS) de l’Agenda 2030.
 
+Aquest pla segueix les fases recomanades per al disseny d’un pla de sostenibilitat:
 
-## 1. Introducció
-
-L’empresa fictícia “Coworking Mataró” disposa d’una infraestructura informàtica antiga i poc eficient energèticament. Aquesta situació provoca un augment del consum elèctric, una reducció del rendiment dels equips i una generació de residus electrònics sense control.
-
-L’objectiu d’aquest projecte és transformar la infraestructura actual seguint els principis de l’Economia Circular, prioritzant la reutilització, la reparació i l’optimització dels equips abans de substituir-los.
-
-Aquest pla busca reduir la factura energètica un 20%, millorar la vida útil dels dispositius i preparar l’empresa per obtenir una certificació de sostenibilitat.
+1. Diagnosi i anàlisi del context.
+2. Definició d’objectius i metes.
+3. Pla d’acció.
+4. Implementació, seguiment i avaluació.
+5. Comunicació i transparència.
 
 
 
 
-## 2. Objectius del projecte
+# 1. Diagnosi i Anàlisi del Context
 
-### Objectiu general
+## 1.1 Situació actual de l’empresa
 
-Elaborar un pla de sostenibilitat integral per millorar l’eficiència energètica, reduir residus electrònics i aplicar criteris ASG (Ambientals, Socials i de Governança).
+Coworking Mataró disposa actualment de:
 
-### Objectius específics
+- 20 ordinadors de sobretaula de l’any 2018.
+- Discos durs HDD antics.
+- 4 GB de memòria RAM.
+- Processadors amb problemes de temperatura.
+- 1 servidor físic sobredimensionat actiu 24/7.
+- Material electrònic emmagatzemat sense control (monitors i cables antics).
 
-- Reduir el consum energètic de la infraestructura TIC.
-- Allargar la vida útil del hardware.
-- Implementar protocols de reutilització i reciclatge RAEE.
-- Millorar les pràctiques digitals dels usuaris.
-- Definir indicadors de sostenibilitat mesurables.
-- Relacionar les actuacions amb els Objectius de Desenvolupament Sostenible (ODS).
+La infraestructura actual presenta problemes importants de:
+
+- Consum energètic elevat.
+- Rendiment insuficient.
+- Mala gestió de residus electrònics.
+- Obsolescència tecnològica.
+- Manca de protocols sostenibles.
 
 
 
 
-## 3. Anàlisi de la situació actual
+## 1.2 Grups d’interès
 
-### Infraestructura disponible
+Els principals grups d’interès de Coworking Mataró són:
 
-#### Equips informàtics
+| Grup d’interès | Necessitats principals |
+|---|---|
+| Clients del coworking | Equipament eficient i fiable |
+| Treballadors | Entorn de treball sostenible |
+| Proveïdors | Relacions responsables |
+| Administració pública | Compliment ambiental i normatiu |
+| Comunitat local | Reducció de l’impacte ambiental |
+| Gestors de residus RAEE | Correcta gestió del material electrònic |
 
-- 20 PCs de sobretaula (2018)
-- Discos HDD mecànics
-- 4 GB de memòria RAM
-- Processadors amb problemes de temperatura
 
-#### Servidors
 
-- 1 servidor físic sobredimensionat
-- Funcionament 24 hores al dia
-- Consum energètic elevat
 
-#### Material emmagatzemat
+## 1.3 Aspectes materials ASG
 
-- Monitors antics
-- Cables sense classificar
-- Components sense inventariar
+### Aspectes Ambientals
 
-### Problemes detectats
+- Consum elèctric elevat.
+- Generació de residus electrònics.
+- Petjada de carboni.
+- Infraestructura poc eficient.
 
-| Problema | Impacte tècnic | Impacte ambiental |
+### Aspectes Socials
+
+- Benestar dels usuaris.
+- Formació en bones pràctiques digitals.
+- Responsabilitat social.
+
+### Aspectes de Governança
+
+- Protocols de sostenibilitat.
+- Control d’inventari.
+- Seguiment de KPIs.
+- Compliment normatiu.
+
+
+
+
+# 2. Fase 1: Diagnòstic i Auditoria
+
+## 2.1 Checklist d’auditoria tècnica i ambiental
+
+| Equip | Estat tècnic | Consum energètic | Impacte ambiental | Acció recomanada |
+|---|---|---|---|---|
+| PCs de sobretaula | Lentitud i sobreescalfament | Alt | Mitjà-alt | Actualitzar RAM i SSD |
+| HDD antics | Molt lents | Mitjà | Alt | Substituir per SSD |
+| Servidor físic | Sobredimensionat | Molt alt | Alt | Virtualització o núvol |
+| Monitors antics | Funcionals però obsolets | Alt | Mitjà | Reutilitzar o reciclar |
+| Cables sense inventari | Desordre i residus | Baix | Mitjà | Inventariar i reciclar |
+
+
+
+
+## 2.2 Punts negres detectats
+
+### Consum energètic
+
+- El servidor funciona permanentment encara que no sempre sigui necessari.
+- Els ordinadors consumeixen més energia per culpa dels HDD i del mal rendiment.
+- Els equips no disposen de configuracions d’estalvi energètic.
+
+### Residus electrònics
+
+- No existeix un protocol de reciclatge RAEE.
+- Hi ha acumulació de components antics.
+- No es reutilitza el hardware aprofitable.
+
+### Obsolescència
+
+- 4 GB de RAM és insuficient per a l’ús actual.
+- Els HDD provoquen lentitud.
+- Els processadors treballen a temperatures elevades.
+
+
+
+
+# 3. Fase 2: Solucions – Hardware Circular
+
+## 3.1 Estratègia de revitalització
+
+En lloc de substituir tots els equips, es prioritza la reutilització i actualització del hardware existent.
+
+### Objectius
+
+- Allargar la vida útil dels equips.
+- Reduir residus electrònics.
+- Disminuir el consum energètic.
+- Evitar compres innecessàries.
+
+
+
+
+## 3.2 Catàleg de hardware recomanat
+
+| Component | Recomanació | Beneficis |
 |---|---|---|
-| HDD lents | Baix rendiment | Consum energètic superior |
-| RAM insuficient | Lentitud del sistema | Necessitat prematura de renovació |
-| Sobreescalfament CPU | Errors i degradació | Major consum elèctric |
-| Servidor sobredimensionat | Infrautilització | Consum continu 24/7 |
-| Absència d’inventari | Mala gestió | Acumulació de residus |
-| Monitors antics | Elevat consum | Tecnologia poc eficient |
+| SSD SATA 480 GB | Kingston, Crucial o Samsung | Més velocitat i menor consum |
+| RAM DDR4 8 GB | Ampliació fins a 8-16 GB | Millora del rendiment |
+| Pasta tèrmica nova | Manteniment CPU | Reducció temperatura |
+| Fonts eficients 80 PLUS | Certificació energètica | Menor consum elèctric |
+| Mini PC Energy Star | Per futures compres | Alta eficiència energètica |
 
 
 
 
-## 4. Fase 1 – Diagnòstic i Auditoria
+## 3.3 Certificacions recomanades
 
-### Checklist d’auditoria
+### Energy Star
 
-| Element auditat | Estat tècnic | Estat ambiental | Acció recomanada |
-|---|---|---|---|
-| PCs (2018) | Regular | Millorable | Actualitzar SSD i RAM |
-| HDD | Obsolet | Consum elevat | Substituir per SSD |
-| RAM 4GB | Insuficient | Allarga processos | Ampliar a 8GB o 16GB |
-| Refrigeració CPU | Deficient | Sobrecàrrega energètica | Neteja i pasta tèrmica |
-| Servidor físic | Sobredimensionat | Consum molt alt | Virtualització o núvol |
-| Monitors antics | Funcionals | Poc eficients | Reutilitzar o reciclar |
-| Cables i perifèrics | Sense control | Residus potencials | Inventariar |
+Garantitza equips amb baix consum energètic.
 
-### Conclusions de l’auditoria
+### EPEAT
 
-La infraestructura actual encara pot ser reutilitzada amb millores de baix cost. El principal problema no és la manca d’equips, sinó la manca d’optimització i manteniment.
+Avalua sostenibilitat, reciclatge i eficiència dels equips electrònics.
 
-L’aplicació de mesures de revitalització pot evitar la compra massiva de nous dispositius i reduir considerablement els residus electrònics.
+### ISO 14001
+
+Sistema de gestió ambiental.
 
 
 
 
-## 5. Fase 2 – Solucions: Hardware Circular
-
-### Estratègia de revitalització
-
-Seguint els principis de l’Economia Circular, es prioritza:
-
-1. Reparar abans de substituir.
-2. Actualitzar components crítics.
-3. Comprar hardware eficient només quan sigui necessari.
-4. Reutilitzar equips interns.
-5. Reciclar correctament els residus electrònics.
-
-
-### Hardware recomanat
-
-| Component | Solució proposada | Beneficis |
-|---|---|---|
-| HDD | SSD SATA 500GB | Menor consum i major velocitat |
-| RAM | 8GB DDR4 | Millor rendiment multitarea |
-| Pasta tèrmica | Renovació anual | Reducció de temperatura |
-| Font alimentació | 80 PLUS Bronze | Eficiència energètica |
-| Monitor | LED Energy Star | Menor consum elèctric |
-
-
-### Criteris de compra sostenible
-
-Els nous components hauran de complir:
-
-- Certificació Energy Star.
-- Certificació EPEAT.
-- Baix consum energètic.
-- Possibilitat de reparació.
-- Compatibilitat amb reutilització.
-
-
-### Impacte esperat
+## 3.4 Millores previstes
 
 | Millora | Resultat esperat |
 |---|---|
-| Instal·lació SSD | Augment velocitat fins a 5x |
-| Ampliació RAM | Reducció bloquejos |
-| Neteja refrigeració | Menys consum i calor |
-| Virtualització servidor | Estalvi energètic 30%-40% |
-| Inventari digital | Millor control RAEE |
+| Substitució HDD → SSD | Reducció de consum i més velocitat |
+| Augment RAM | Menys bloquejos i millor productivitat |
+| Virtualització del servidor | Menys consum elèctric |
+| Reutilització de monitors | Menys residus electrònics |
+| Inventari digital | Control del material reutilitzable |
 
 
 
 
-## 6. Fase 3 – Guia de Bones Pràctiques Digitals
+# 4. Fase 3: Guia de Bones Pràctiques Digitals
 
-### Protocols per als usuaris
+## 4.1 Protocols per als usuaris
 
-#### Estalvi energètic
+### Estalvi energètic
 
-- Apagar equips en finalitzar la jornada.
-- Activar mode suspensió als 10 minuts.
-- Reduir brillantor de pantalla.
-- Desconnectar perifèrics no utilitzats.
+- Apagar els equips fora de l’horari laboral.
+- Activar el mode suspensió.
+- Reduir la brillantor de les pantalles.
+- Desconnectar perifèrics innecessaris.
 
-
-#### Gestió de dades
+### Gestió de dades
 
 - Eliminar arxius duplicats.
-- Evitar emmagatzematge innecessari (“dark data”).
+- Netejar dades innecessàries (“dark data”).
 - Utilitzar emmagatzematge compartit.
-- Fer neteja mensual de dades.
+- Fer còpies de seguretat eficients.
 
+### Bones pràctiques sostenibles
 
-#### Bones pràctiques digitals
-
-- Evitar impressió innecessària.
-- Prioritzar videotrucades en qualitat equilibrada.
-- Utilitzar programari eficient.
-- Tancar sessions remotes quan no s’utilitzin.
-
-
-
-
-## Infografia digital per a l’usuari final
-
-### Coworking Mataró – Bones pràctiques sostenibles
-
-#### Estalvia energia
-
--  Apaga el PC quan acabis
--  Activa el mode suspensió
--  Redueix la brillantor de la pantalla
--  Desconnecta carregadors
-
-
-#### Redueix residus digitals
-
--  Elimina arxius duplicats
--  Utilitza carpetes compartides
--  Evita guardar dades innecessàries
--  Fes neteja mensual
-
-
-#### Cuida el hardware
-
--  No bloquegis ventiladors
--  Mantingues l’equip net
--  Informa d’avaries ràpidament
--  Reutilitza abans de substituir
+- Prioritzar documents digitals.
+- Reduir impressions.
+- Utilitzar videoconferències per reduir desplaçaments.
+- Utilitzar eines cloud eficients.
 
 
 
 
-## 7. Fase 4 – Pla de Sostenibilitat Integral
+## 4.2 Protocol de tancament remot
 
-### Full de ruta de millora
+S’implementarà:
 
-#### Curt termini (0-6 mesos)
-
-| Acció | Objectiu |
-|---|---|
-| Inventari de material | Control d’actius |
-| Instal·lació SSD | Millorar rendiment |
-| Ampliació RAM | Allargar vida útil |
-| Neteja interna PCs | Reduir temperatura |
-| Configuració estalvi energètic | Reduir consum |
+- Apagat automàtic dels equips.
+- Gestió remota mitjançant Wake-on-LAN.
+- Monitoratge del consum energètic.
 
 
-#### Mig termini (6-12 mesos)
 
-| Acció | Objectiu |
-|---|---|
-| Virtualització servidor | Reduir consum 24/7 |
-| Renovació monitors crítics | Eficiència energètica |
-| Implementar control remot | Gestió energètica |
-| Protocol RAEE | Gestió sostenible |
+## 4.3 Infografia digital (contingut resumit)
 
+### “Treballa de manera sostenible”
 
-#### Llarg termini (1-3 anys)
-
-| Acció | Objectiu |
-|---|---|
-| Migració parcial al núvol | Menor consum físic |
-| Compra sostenible | Compliment EPEAT |
-| Certificació sostenibilitat | Millora reputació |
-| Auditoria anual | Seguiment KPIs |
+1. Apaga el PC quan no l’utilitzis.
+2. Mantingues només els arxius necessaris.
+3. Utilitza el núvol compartit.
+4. Evita impressions innecessàries.
+5. Activa el mode estalvi d’energia.
+6. Reporta incidències de hardware.
+7. Reutilitza abans de substituir.
 
 
 
 
-## Protocol de gestió de residus RAEE
+# 5. Fase 4: Pla de Sostenibilitat Integral
+
+## 5.1 Objectius generals
+
+### Curt termini (0-6 mesos)
+
+- Reduir el consum energètic un 20%.
+- Actualitzar els 20 equips.
+- Crear inventari digital.
+- Implantar protocols d’estalvi energètic.
+
+### Mitjà termini (6-12 mesos)
+
+- Virtualitzar el servidor.
+- Millorar la gestió de residus.
+- Formar els usuaris.
+- Obtenir certificació ambiental.
+
+### Llarg termini (1-3 anys)
+
+- Renovació progressiva amb equips Energy Star.
+- Neutralitat parcial de carboni.
+- Implementar energies renovables.
+
+
+
+
+## 5.2 Full de ruta de millora
+
+| Fase | Acció | Responsable | Termini |
+|---|---|---|---|
+| 1 | Auditoria inicial | Departament IT | Mes 1 |
+| 2 | Inventari de hardware | IT + Administració | Mes 1 |
+| 3 | Instal·lació SSD i RAM | Tècnics IT | Mes 2 |
+| 4 | Configuració energètica | IT | Mes 2 |
+| 5 | Virtualització servidor | IT extern | Mes 3 |
+| 6 | Formació usuaris | Recursos Humans | Mes 4 |
+| 7 | Implementació protocol RAEE | Direcció | Mes 4 |
+| 8 | Seguiment KPIs | Direcció + IT | Permanent |
+
+
+
+## 5.3 Protocol de gestió de residus RAEE
 
 ### Objectiu
 
-Garantir la correcta gestió dels residus d’aparells elèctrics i electrònics.
+Garantir la correcta gestió dels residus electrònics segons la normativa mediambiental.
 
+### Procés
 
-### Procediment
+1. Inventariar el material antic.
+2. Classificar components reutilitzables.
+3. Reparar equips recuperables.
+4. Donar equips funcionals a entitats socials.
+5. Enviar residus a gestors autoritzats RAEE.
+6. Registrar totes les sortides de material.
 
-1. Inventariar tots els equips.
-2. Classificar reutilitzables i obsolets.
-3. Donar una segona vida als equips funcionals.
-4. Portar els residus a un gestor autoritzat RAEE.
-5. Registrar les baixes d’equipament.
+### Beneficis
 
-
-### Materials reutilitzables
-
-- Monitors funcionals.
-- Cables compatibles.
-- Memòries RAM.
-- Fonts d’alimentació.
-
-
-### Materials per reciclar
-
-- HDD defectuosos.
-- Components cremats.
-- Pantalles trencades.
-- Bateries deteriorades.
+- Reducció de contaminació.
+- Compliment legal.
+- Reutilització de recursos.
+- Millora de la imatge corporativa.
 
 
 
 
-## 8. KPIs i mètriques de sostenibilitat
+## 5.4 KPIs de sostenibilitat
 
-### PUE (Power Usage Effectiveness)
-El PUE mesura l’eficiència energètica de la infraestructura TIC.
+### KPI 1 – PUE (Power Usage Effectiveness)
 
-```math
-PUE = \frac{Energia\ total\ instal·lació}{Energia\ equips\ TIC}
+#### Fórmula
+
+```text
+PUE = Energia total consumida / Energia utilitzada pels equips IT
