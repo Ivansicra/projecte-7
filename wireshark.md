@@ -45,8 +45,6 @@ Escriu la paraula `icmp` a **Filter:**.
 
 A les opcions avançades de la targeta activa el mode promiscu amb l’opció **Permetre-ho tot**.
 
-```text
-promiscous_mode
 
 ![Captura 1](img/36.png)
 
