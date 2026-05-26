@@ -14,7 +14,7 @@ Posa en marxa la captura de paquets de Wireshark sobre la targeta de xarxa del t
 
 ![Captura 1](img/31.png)
 
-
+ 
 Obre una consola i executa un `ping` a algun servei o al router de l’escola. Deixa que faci quatre o cinc peticions i atura la comanda (el `ping` per defecte a Linux no para d’enviar paquets).
 
 
